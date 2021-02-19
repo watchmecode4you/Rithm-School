@@ -1,4 +1,5 @@
-const env = require('dotenv').config()
+const env = require('dotenv')
+env.config()
 const {
     Client
 } = require('pg')

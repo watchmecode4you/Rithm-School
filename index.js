@@ -1,7 +1,6 @@
 const Student = require('./Student.js')
 const readline = require('readline')
 const process = require("process")
-const { Console } = require('console')
 
 // ========================================== Start Program ============================================================
 start(Student)
