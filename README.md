@@ -10,4 +10,6 @@ Feel free to check the code, downlaod it and try it to run it on your environmen
 
 Follow Rithm School website in order to follow along : https://www.rithmschool.com/courses/node-express-fundamentals/introduction-to-node-js
 
+You can find the related database there with all the instructions to get you going. A humble node and express js knowledge is require to fully grasp the concept.
+
 Some Postresql documentation for guidance : https://www.postgresql.org/docs/
