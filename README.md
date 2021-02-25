@@ -8,7 +8,7 @@ The package.json file has all the modules necessary to execute each exercie file
 
 Feel free to check the code, downlaod it and try it to run it on your environment.
 
-Follow Rithm School website in order to follow along : https://www.rithmschool.com/courses/node-express-fundamentals/introduction-to-node-js
+Follow Rithm School website in order to follow along : https://www.rithmschool.com/courses/node-express-fundamentals/introduction-to-postgres-with-node
 
 You can find the related database there with all the instructions to get you going. A humble node and express js knowledge is require to fully grasp the concept.
 
